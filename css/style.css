@@ -1,0 +1,30 @@
+body {
+  background-color: rgb(0,0,255);
+}
+h1 {
+  color: rgb(255,0,0);
+    font-size:32px;
+  font-family: Impact;
+}
+
+.list {
+  color: rgb(255,255,255);
+  font-family: Tahoma;
+ display: inline-block;
+/*   float: left; */
+}
+
+img {
+  width:360px;
+    height: 100%;
+}
+
+.first {
+  color: rgb(200,110,165);
+  font-family: Impact;
+}
+
+.second {
+  color: rgb(232,31,130);
+    font-family: Times;
+}
